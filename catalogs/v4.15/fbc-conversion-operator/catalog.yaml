@@ -58,6 +58,7 @@ properties:
     keywords:
     - ai
     - ml
+    - something
     links:
     - name: Memcached Operator
       url: https://fbc-conversion-operator.domain

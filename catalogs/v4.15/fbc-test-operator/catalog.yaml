@@ -5,7 +5,7 @@ schema: olm.package
 ---
 entries:
 - name: fbc-test-operator.0.0.100
-name: candidate-v0
+name: candidate-v1
 package: fbc-test-operator
 schema: olm.channel
 ---
