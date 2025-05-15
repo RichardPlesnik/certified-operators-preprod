@@ -1,0 +1,10 @@
+---
+Schema: olm.semver
+GenerateMajorChannels: true
+GenerateMinorChannels: true
+Candidate:
+  Bundles:
+  - Image: registry.connect.stage.redhat.com/rplesnikfbctest/rplesnikfbctest:0.0.100
+Fast:
+  Bundles:
+  - Image: registry.connect.stage.redhat.com/rplesnikfbctest/rplesnikfbctest:0.0.100
