@@ -8,3 +8,4 @@ Candidate:
 Fast:
   Bundles:
   - Image: registry.connect.stage.redhat.com/rplesnikfbctest/rplesnikfbctest:0.0.100
+  - Image: registry.connect.stage.redhat.com/rplesnikfbctest/rplesnikfbctest:1.0.100
