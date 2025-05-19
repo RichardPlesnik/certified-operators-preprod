@@ -3,6 +3,7 @@
 
 # The makefile should be placed in the root of the operator repository.
 # for example at: <operator-repo>/operators/<operator-name>/Makefile
+# Some comment
 
 PWD=$(shell pwd)
 OPERATOR_NAME=$(shell basename $(PWD))
