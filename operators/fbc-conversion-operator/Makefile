@@ -1,6 +1,5 @@
 # This Makefile provides a set of targets to generate and validate operator catalogs
 # using the Operator Package Manager (opm) tool.
-# Comment
 
 # The makefile should be placed in the root of the operator repository.
 # for example at: <operator-repo>/operators/<operator-name>/Makefile
