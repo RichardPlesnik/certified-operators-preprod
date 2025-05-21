@@ -1,4 +1,5 @@
 ---
+cert_project_id: 66bca6cf34cb03f08a1600fc
 fbc:
   enabled: true
   catalog_mapping:
